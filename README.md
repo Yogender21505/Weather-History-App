@@ -1,5 +1,5 @@
 # Weather-History-App
-##Abstract of App
+Abstract of App
 The Weather History App retrieves and displays maximum and minimum temperatures for a specified date, utilizing a free weather API and storing data locally for offline access.
 ## Breif
 This Android application is designed to help users download and store weather history data from the Open-Meteo API, which provides historical weather data ranging from 1940 to 2023. It allows users to input a date and year and displays the maximum and minimum temperature on that date, along with other weather parameters available from the API. Additionally, the app provides functionality to store this information in a local database for offline access.
