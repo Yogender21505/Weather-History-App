@@ -47,10 +47,16 @@ This Android application is designed to help users download and store weather hi
 The historical weather data is retrieved from the [Open-Meteo API](https://archive-api.open-meteo.com/v1/archive?latitude=28.7041&longitude=77.1025&start_date=2014-03-11&end_date=2014-04-11&daily=temperature_2m_max,temperature_2m_min,rain_sum,wind_speed_10m_max,wind_gusts_10m_max,weather_code,shortwave_radiation_sum,precipitation_sum,wind_direction_10m_dominant).
 
 ## Screenshots
+<img src="https://github.com/Yogender21505/Weather-History-App/assets/104339650/75a0e66d-c083-4a59-afba-035f1405f2fe" alt="Screenshot 1" width="300" height="600">
+<img src="https://github.com/Yogender21505/Weather-History-App/assets/104339650/06cd6a96-c9d1-42b4-95c8-7fe589071aa4" alt="Screenshot 2" width="300" height="600">
+<img src="https://github.com/Yogender21505/Weather-History-App/assets/104339650/7d6712be-6e2a-4cb8-8267-454b2f0c2753" alt="Screenshot 3" width="300" height="600">
+<img src="https://github.com/Yogender21505/Weather-History-App/assets/104339650/2256591c-ad98-4c74-8393-8bd85a704ae6" alt="Screenshot 4" width="300" height="600">
+<img src="https://github.com/Yogender21505/Weather-History-App/assets/104339650/7802b82d-4668-492b-88a5-5ab90ee3388e" alt="Screenshot 5" width="300" height="600">
+<img src="https://github.com/Yogender21505/Weather-History-App/assets/104339650/24fd9bae-1b81-49a8-9ce0-f0e4d6ccbc56" alt="Screenshot 6" width="300" height="600">
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
-![Screenshot 3](/screenshots/screenshot3.png)
+
+
+
 
 ## How to Run
 
